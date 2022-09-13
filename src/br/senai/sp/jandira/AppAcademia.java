@@ -15,7 +15,7 @@ public class AppAcademia {
 		tela.titulo = "Calculadora de IMC";
 		tela.largura = 300;
 		tela.altura = 470;
-		tela.corDeFundoDaTela = new Color(31, 165, 162);
+		tela.corDeFundoDaTela = new Color(187, 119, 255);
 		tela.fonteDosLabels = new Font("Gabriola", Font.PLAIN, 24);
 		tela.corDoTextoDoBotao = new Color(226, 11, 204);
 		tela.criarTela();
